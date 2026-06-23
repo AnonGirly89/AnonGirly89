@@ -1,4 +1,4 @@
-| <img width="2172" height="724" alt="soundcloud banner 2" src="https://github.com/user-attachments/assets/ea0d7561-67ce-4564-a2c7-d84f35453e88" /> |
+| <img width="2172" height="724" alt="a291fd91-7fa5-430a-8bc0-51face2f40d2" src="https://github.com/user-attachments/assets/02d0837c-22d6-4548-8d3e-da8217db38a0" /> |
 |---|
 
 ```yar
